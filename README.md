@@ -9,7 +9,7 @@ Simulação da fonte de 3 tensões
 | Fonte: Próprio autor |
 
 | Layout |
-|:---------------------------------------------:|
+|:--------------------------------------------------:|
 | ![layout](https://github.com/VYNIexec/fonte3t/blob/main/Layout.PNG) |
 | Fonte: Próprio autor |
 
