@@ -1,10 +1,7 @@
-# Fonte de três tensões
-
-Projeto de uma de três tensões continuas
-
+# Projeto de uma fonte de três tensões continuas
 |Esquemático|
 |:---------:|
-|![Esquematico](https://github.com/vyniexec/fonte3t/blob/main/Esquemático.PNG)|
+|![Esquemático](https://github.com/vyniexec/fonte3t/blob/main/Esquemático.PNG)|
 |Fonte: Próprio autor|
 
 |Layout|
