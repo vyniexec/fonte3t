@@ -5,5 +5,5 @@ Simulação da fonte de 3 tensões
 
 | Figura 1: Esquematico da fonte de 3 tensões |
 |:-------------------------------------------:|
-| ![esquematico](https://github.com/VYNIexec/fonte3t/blob/main/Esquematico.PNG) |
+| ![esquematico](https://github.com/VYNIexec/fonte3t/blob/main/Esquemático.PNG) |
 | Fonte: Próprio autor |
