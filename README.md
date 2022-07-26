@@ -1,8 +1,5 @@
 # fonte3t
 
-
-Simulação da fonte de 3 tensões
-
 |Esquemático|
 |:---------:|
 |![Esquematico](https://github.com/vyniexec/fonte3t/blob/main/Esquemático.PNG)|
