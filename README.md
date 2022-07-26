@@ -8,8 +8,8 @@ Simulação da fonte de 3 tensões
 | ![esquematico](https://github.com/VYNIexec/fonte3t/blob/main/Esquemático.PNG) |
 | Fonte: Próprio autor |
 
-| &nbsp Layout |
-|:-------------------------------------------:|
+| Layout |
+|:------:|
 | ![layout](https://github.com/VYNIexec/fonte3t/blob/main/Layout.PNG) |
 | Fonte: Próprio autor |
 
