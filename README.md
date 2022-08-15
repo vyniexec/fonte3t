@@ -11,5 +11,5 @@
 
 |Vista 3D|
 |:---------:|
-|![Vista3D](https://github.com/vyniexec/fonte3t/blob/main/3D.PNG)|
+|:---:![Vista3D](https://github.com/vyniexec/fonte3t/blob/main/3D.PNG)|
 |Fonte: Próprio autor|
