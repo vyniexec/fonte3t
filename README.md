@@ -6,7 +6,7 @@
 
 |Layout|
 |:---------:|
-|:--:|![Layout](https://github.com/vyniexec/fonte3t/blob/main/Layout.PNG)|
+|:--:||![Layout](https://github.com/vyniexec/fonte3t/blob/main/Layout.PNG)|
 |Fonte: Próprio autor|
 
 |Vista 3D|
