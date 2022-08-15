@@ -1,7 +1,7 @@
 # Fonte de Três Tensões
 |Esquemático|
 |:---------:|
-![Esquematico](https://github.com/vyniexec/fonte3t/blob/main/Esquemático.PNG =1280x720)
+![Esquematico](.fonte3t/Esquemático.PNG =1280x720)
 |Fonte: Próprio autor|
 
 |Layout|
