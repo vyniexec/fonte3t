@@ -1,15 +1,15 @@
 # Fonte de Três Tensões
 |Esquemático|
 |:---------:|
-![Esquematico](.fonte3t/Esquemático.PNG =1280x720)
+![Esquematico](https://github.com/vyniexec/fonte3t/blob/main/Esquemático.PNG)
 |Fonte: Próprio autor|
 
 |Layout|
 |:---------:|
-![Layout](https://github.com/vyniexec/fonte3t/blob/main/Layout.PNG =1280x720)
+![Layout](https://github.com/vyniexec/fonte3t/blob/main/Layout.PNG)
 |Fonte: Próprio autor|
 
 |Vista 3D|
 |:---------:|
-![Vista3D](https://github.com/vyniexec/fonte3t/blob/main/3D.PNG =1280x720)
+![Vista3D](https://github.com/vyniexec/fonte3t/blob/main/3D.PNG)
 |Fonte: Próprio autor|
